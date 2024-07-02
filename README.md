@@ -1,12 +1,11 @@
-![image](https://github.com/baixf-xyz/Awsome-whisper-paper/assets/69945562/c60ebe2a-6e42-4fec-bf81-b5916ba2d99e)# Awsome-whisper-paper
+# Awsome-whisper-paper
 
 Papers about Whisper. If you feel there are papers with related topics missing or any mistake in this list, do not hesitate to let us know (via issues or pull requests). 
 
 ---
-[TOC]
----
 
-## Whisper
+
+> Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
 [[Paper]](https://arxiv.org/abs/2212.04356)

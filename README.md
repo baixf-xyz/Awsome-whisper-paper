@@ -3,6 +3,8 @@
 Papers about Whisper. If you feel there are papers with related topics missing or any mistake in this list, do not hesitate to let us know (via issues or pull requests). 
 
 ---
+[TOC]
+---
 
 ## Whisper
 

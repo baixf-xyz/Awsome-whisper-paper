@@ -27,6 +27,7 @@ A Transformer sequence-to-sequence model is trained on various speech processing
 ### Model Archicture
 * Language independent end-to-end architecture for joint language identification and speech recognition(Mitsubishi Electric Research Laboratories MERL；ASRU2017)
 * Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data(ASRU 2023，Carnegie Mellon University，Yifan Peng, Jinchuan Tian)
+* Teach me with a Whisper: Enhancing Large Language Models for Analyzing Spoken Transcripts using Speech Embeddings(arXiv:2311.07014, 2023.;Hasan F, Li Y, Foulds J, et al. ;University of Maryland Baltimore County,IBM Research AI)
 * Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling(arXiv:2311.00430, 2023.;Gandhi S, von Platen P, Rush A M. ;Hugging Face)
 
 ### Mutiligual ASR , Transfer Learning and Fine-tuning
@@ -40,8 +41,11 @@ A Transformer sequence-to-sequence model is trained on various speech processing
 * WhisperX: Time-Accurate Speech Transcription of Long-Form Audio (INTERSPEECH 2023,Bain M, Huh J, Han T, et al. University of Oxford)
 
 
-### Hot Word
+### Hot Words and Key Words
+* Prompt Tuning for Speech Recognition on Unknown Spoken Name Entities(Submitted to Interspeech 2024)
 * Can whisper perform speech-based in-context learning?(ICASSP 2024;THU;Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang)
+* Keyword-Guided Adaptation of Automatic Speech Recognition（aiOla Research, Israel；arxiv2406）
+
 
 ### Target speaker recognization (TSE)
 * Extending Whisper with prompt tuning to target-speaker ASR(ICASSP 2024,Shandong University)

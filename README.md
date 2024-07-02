@@ -51,6 +51,10 @@ A Transformer sequence-to-sequence model is trained on various speech processing
 * Can Whisper perform speech-based in-context learning(ICASSP2024；Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang；THU)
 * Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization（Interspeech 2023；The University of Texas at Austin、Carnegie Mellon University；Peng P, Yan B, Watanabe S, et al.)
 
+### Audio-Vision Speech Recognization(AVSR)
+* Visual Speech Recognition for Low-Resource Languages with Automatic Labels from Whisper Model（ICASSP 2024 ; KAIST, South Korea,CMU)
+
+
 ### Generative Error Correction(GER) and LLM
 * Salmonn: Towards generic hearing abilities for large language models(arXiv:2310.13289,Thu，Bytedance)
 * Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models(arXiv: 2311.07919；Alibaba)

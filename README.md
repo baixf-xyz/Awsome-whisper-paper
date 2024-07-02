@@ -1,4 +1,4 @@
-![image](https://github.com/baixf-xyz/Awsome-whisper-paper/assets/69945562/5ea52d1b-63df-4efb-81ff-87272fac8cab)# Awsome-whisper-paper
+# Awsome-whisper-paper
 
 Papers about Whisper. If you feel there are papers with related topics missing or any mistake in this list, do not hesitate to let us know (via issues or pull requests). 
 

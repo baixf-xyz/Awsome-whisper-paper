@@ -1,7 +1,3 @@
-以下是优化后的 Markdown 文档，包含了关于 Whisper 的论文及其相关主题的详细信息：
-
----
-
 # Awsome-whisper-paper
 
 Papers about Whisper. If you feel there are papers with related topics missing or any mistake in this list, do not hesitate to let us know (via issues or pull requests).

@@ -54,6 +54,7 @@ A Transformer sequence-to-sequence model is trained on various speech processing
 - Zero-Shot Domain-Sensitive Speech Recognition with Prompt-Conditioning Fine-Tuning (ASRU 2023, MediaTek Research)
 - Can Whisper Perform Speech-Based In-Context Learning? (ICASSP 2024, Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang; THU)
 - Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization (Interspeech 2023, The University of Texas at Austin, Carnegie Mellon University; Peng P, Yan B, Watanabe S, et al.)
+- Do Prompts Really Prompt? Exploring the Prompt Understanding Capability of Whisper（National Taiwan University,Hung-yi Lee,arXiv:2406.05806, 2024.）
 
 ### Audio-Vision Speech Recognition (AVSR)
 - Visual Speech Recognition for Low-Resource Languages with Automatic Labels from Whisper Model (ICASSP 2024, KAIST, South Korea, CMU)
